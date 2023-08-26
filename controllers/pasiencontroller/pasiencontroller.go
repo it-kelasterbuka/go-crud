@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jeypc/go-crud/libraries"
+	"github.com/it-kelasterbuka/go-crud/libraries"
 
-	"github.com/jeypc/go-crud/models"
+	"github.com/it-kelasterbuka/go-crud/models"
 
-	"github.com/jeypc/go-crud/entities"
+	"github.com/it-kelasterbuka/go-crud/entities"
 )
 
 var validation = libraries.NewValidation()
